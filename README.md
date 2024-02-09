@@ -25,6 +25,8 @@ I have applied my knowledge in real-world projects, ranging from web application
 
 - **Web Application for XYZ**: Built with React, Node.js, and MongoDB, this application solves a significant problem by providing XYZ functionality.
 - **Automation Tool with Python**: Developed a Python script to automate XYZ, significantly reducing manual effort and improving efficiency.
+- Sushi Takeaway Website: Developed a website for a sushi takeaway.
+- VroomVroom Car API: Created an API for VroomVroom car rentals.
 
 ## 📫 How to Reach Me
 
