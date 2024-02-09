@@ -23,8 +23,6 @@ And this is just the beginning. My versatility extends to any language or framew
 
 I have applied my knowledge in real-world projects, ranging from web applications to automation tools. Here are a few highlights:
 
-- **Web Application for XYZ**: Built with React, Node.js, and MongoDB, this application solves a significant problem by providing XYZ functionality.
-- **Automation Tool with Python**: Developed a Python script to automate XYZ, significantly reducing manual effort and improving efficiency.
 - **Sushi Takeaway Website**: Developed a website for a sushi takeaway.
 - **VroomVroom Car API**: Created an API for VroomVroom car rentals.
 
@@ -34,7 +32,5 @@ Let's connect! Whether you're looking for collaboration on a project or just wan
 
 - **Email**: [surya.manivel@noseryoung.com](mailto:surya.manivel@noseryoung.com)
 
-## 🤝 Let's Connect!
 
-I'm always excited to meet fellow developers and tech enthusiasts. If you have an idea, a project, or just want to chat about technology, feel free to reach out to me. Together, we can explore new horizons and build something amazing!
 
