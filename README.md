@@ -4,20 +4,38 @@ Welcome to my GitHub profile! As a programming apprentice with a vast knowledge 
 
 ## 🌟 Master of All Languages
 
-My unique expertise encompasses every programming and scripting language you can think of, including but not limited to:
+## 💻 Programming Languages I Know
 
-- **Python** 🐍: Leveraging it for everything from web development to data science.
-- **JavaScript** 💻: Creating dynamic, responsive web applications with frameworks like React, Angular, and Vue.
-- **Java** ☕: Developing robust, high-performance backend applications.
-- **C/C++** 🖥️: Implementing efficient, system-level solutions.
-- **Ruby** 💎: Crafting elegant web applications with Rails.
-- **PHP** 📦: Building dynamic server-side applications.
-- **Go** 🚀: Writing highly efficient and concurrent programs.
-- **Rust** 🛠️: Developing safe and concurrent systems software.
-- **Swift** 📱: Creating cutting-edge iOS applications.
-- **Kotlin** 🌈: Developing modern, concise Android apps.
+<p align="left">
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://brandlogos.net/wp-content/uploads/2021/11/java-logo.png" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
+  </a>
+</p>
 
-And this is just the beginning. My versatility extends to any language or framework necessary to bring a project to life, making me a valuable asset to any team and project.
 
 ## 🚀 Projects
 
