@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Surya!
 
-Welcome to my GitHub profile! As a programming apprentice with a vast knowledge of programming languages, I'm passionate about leveraging my skills to build innovative solutions and contribute to open-source projects. My journey in tech is fueled by a relentless curiosity and a desire to make a difference through code.
+Welcome to my GitHub profile! I'm a programming apprentice with a strong understanding of different programming languages. I love using my skills to create new and exciting projects and to help out with open-source work. My tech journey is driven by a constant curiosity and a commitment to making an impact with my programming.
 
 ## 
 ## 💻 Master of All Languages
@@ -44,6 +44,7 @@ I have applied my knowledge in real-world projects, ranging from web application
 - **Sushi Takeaway Website**: Developed a website for a sushi takeaway.
 - **VroomVroom Car API**: Created an API for VroomVroom car rentals.
 
+## 
 ## 📫 How to Reach Me
 
 Let's connect! Whether you're looking for collaboration on a project or just want to exchange ideas, I'm open to new opportunities:
