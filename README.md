@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Surya!
 
-Welcome to my GitHub profile! I'm a programming apprentice with a strong understanding of different programming languages. I love using my skills to create new and exciting projects and to help out with open-source work. My tech journey is driven by a constant curiosity and a commitment to making an impact with my programming.
+
 
 ## 
 ## 💻 Master of All Languages
