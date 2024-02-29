@@ -2,6 +2,7 @@
 
 Welcome to my GitHub profile! As a programming apprentice with a vast knowledge of programming languages, I'm passionate about leveraging my skills to build innovative solutions and contribute to open-source projects. My journey in tech is fueled by a relentless curiosity and a desire to make a difference through code.
 
+## 
 ## 💻 Master of All Languages
 
 <p align="left">
@@ -35,7 +36,7 @@ Welcome to my GitHub profile! As a programming apprentice with a vast knowledge 
 </p>
 
 ## 
-## 
+
 ## 🚀 Projects
 
 I have applied my knowledge in real-world projects, ranging from web applications to automation tools. Here are a few highlights:
