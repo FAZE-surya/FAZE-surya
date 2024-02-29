@@ -34,7 +34,8 @@ Welcome to my GitHub profile! As a programming apprentice with a vast knowledge 
   </a>
 </p>
 
-
+## 
+## 
 ## 🚀 Projects
 
 I have applied my knowledge in real-world projects, ranging from web applications to automation tools. Here are a few highlights:
