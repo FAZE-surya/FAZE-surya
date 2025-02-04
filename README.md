@@ -37,18 +37,7 @@
 
 ## 
 
-## 🚀 Projects
 
-I have applied my knowledge in real-world projects, ranging from web applications to automation tools. Here are a few highlights:
-
-- **Sushi Takeaway Website**: Developed a website for a sushi takeaway.
-- **VroomVroom Car API**: Created an API for VroomVroom car rentals.
-
-## 
-## 📫 How to Reach Me
-
-Let's connect! Whether you're looking for collaboration on a project or just want to exchange ideas, I'm open to new opportunities:
-**Email**: [surya.manivel@noseryoung.com](mailto:surya.manivel@noseryoung.com)
 
 
 
