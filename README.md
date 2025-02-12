@@ -1,5 +1,4 @@
 # 👋 Hi, I'm Surya!
-
 ## 💻 Master of All Languages & Technologies
 <p align="left">
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
@@ -80,4 +79,5 @@
   </a>
 </p>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=surya304&show_icons=true&theme=dark)
 
