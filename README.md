@@ -1,3 +1,5 @@
+![Waving](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome!&fontSize=50&fontColor=fff)
+
 # 👋 Hi, I'm Surya!
 ## 💻 Master of All Languages & Technologies
 <p align="left">
@@ -80,4 +82,23 @@
 </p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=surya304&show_icons=true&theme=dark)
+
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=surya304&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+### 🏆 **Developer Trophies**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=surya304&theme=algolia&row=1&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+</p>
+
+---
+
+
+
+
 
